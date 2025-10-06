@@ -1,0 +1,9 @@
+streamlit>=1.34.0
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+dowhy
+pydot
+graphviz
